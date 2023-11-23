@@ -1,5 +1,5 @@
 def my_superfunction():
-    print('hello word!')
+    print('hello Yandex')
 
 
 def main():
